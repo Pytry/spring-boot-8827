@@ -1,0 +1,7 @@
+example:
+  one: one
+  two: two
+  three: three
+logging:
+  file: target/example.log
+  level: debug

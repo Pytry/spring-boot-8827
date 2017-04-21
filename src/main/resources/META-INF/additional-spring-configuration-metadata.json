@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "example.one",
+      "type": "java.lang.String",
+      "description": "Description for example.one."
+    },
+    {
+      "name": "example.two",
+      "type": "java.lang.String",
+      "description": "Description for example.two."
+    },
+    {
+      "name": "example.three",
+      "type": "java.lang.String",
+      "description": "Description for example.three."
+    }
+  ]
+}
